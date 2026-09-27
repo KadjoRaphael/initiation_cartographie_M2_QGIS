@@ -1,0 +1,22 @@
+title: M2 / Initiation à la cartographie avec QGIS
+description: Support de cours - Recherche de données, QGIS, jointures et cartographie thématique (M2 EEI-MCRI, CY Cergy Paris Université)
+author: Kadjo Raphaël Kobenan
+
+remote_theme: carlosperate/jekyll-theme-rtd
+plugins:
+  - jekyll-remote-theme
+
+edit_on_github: true
+github_docs_folder: false
+sticky_navigation: true
+prev_next_buttons_location: both
+search_enabled: true
+hljs_style: github-gist
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
