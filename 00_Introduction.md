@@ -7,7 +7,7 @@ nav_order: 2
 
 Bienvenue dans le module **Initiation à la cartographie avec QGIS**.
 
-Ce cours s'adresse aux étudiant·es de **Master 2 EEI-MCRI — Études Européennes et Internationales / Mondes Contemporains et Relations Internationales**.
+Ce cours s'adresse aux étudiant·es de **Master 2 EEI-MCRI - Études Européennes et Internationales / Mondes Contemporains et Relations Internationales**.
 
 Il constitue une initiation à la **cartographie** et à l'utilisation de **QGIS**. Il est conçu pour des étudiant·es qui ne sont pas spécialistes de la cartographie ou des **systèmes d'information géographique (SIG)**.
 
