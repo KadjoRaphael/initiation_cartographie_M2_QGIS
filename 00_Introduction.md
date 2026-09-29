@@ -215,6 +215,11 @@ Au cours de la formation, nous utiliserons ou consulterons plusieurs sources ins
 >
 > Avant d'utiliser une donnée, il faudra toujours vérifier son **producteur, sa source, sa date, son unité, sa définition, son échelle géographique et sa documentation**.
 
+- [Présentation générale du cours (PDF)](documents/Presentation_generale_du_cours.pdf)
+- **Support de cours complet (PDF)** - disponible à la fin de l'ensemble des séances.
+- [Bibliographie et liens utiles](05_Ressources.html)
+
+
 ---
 
 ## 📚 Programme du site
