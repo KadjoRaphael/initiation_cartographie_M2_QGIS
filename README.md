@@ -9,22 +9,22 @@ L'objectif est d'acquérir les bases nécessaires pour comprendre une démarche 
 ## Structure du cours
 
 - **Accueil**
-- **Introduction — Présentation du module**
-- **Séance 1 — De la question de recherche aux données cartographiques et découverte de QGIS**
+- **Introduction - Présentation du module**
+- **Séance 1 - De la question de recherche aux données cartographiques et découverte de QGIS**
   - recherche et compréhension des données ;
   - découverte de QGIS ;
   - création et représentation de données ;
   - réalisation d'une première carte.
-- **Séance 2 — Préparer les données et réaliser une carte thématique**
+- **Séance 2 - Préparer les données et réaliser une carte thématique**
   - préparation des données ;
   - jointure attributaire et introduction à la jointure spatiale ;
   - cartographie thématique ;
   - représentation et mise en page.
-- **Séance 3 — Consolider les acquis et réaliser son projet cartographique**
+- **Séance 3 - Consolider les acquis et réaliser son projet cartographique**
   - retour sur les notions et manipulations étudiées ;
   - consolidation des acquis ;
   - réalisation du projet cartographique individuel.
-- **Ressources — Données, QGIS et fonds cartographiques**
+- **Ressources - Données, QGIS et fonds cartographiques**
 
 ## Fil conducteur
 
