@@ -593,7 +593,7 @@ On peut notamment y rechercher des données sur :
 
 ---
 
-## 🌐 Nations Unies — World Statistics Pocketbook
+## 🌐 Nations Unies - World Statistics Pocketbook
 
 Les Nations Unies proposent également des statistiques permettant d'étudier de nombreux phénomènes à l'échelle internationale.
 
