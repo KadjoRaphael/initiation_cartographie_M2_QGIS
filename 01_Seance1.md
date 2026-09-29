@@ -9,8 +9,8 @@ Cette première séance est consacrée aux bases nécessaires pour commencer un 
 
 La journée est organisée en deux temps :
 
-- **Matin (9h–12h)** : comprendre la démarche cartographique, rechercher et évaluer des données ;
-- **Après-midi (13h–16h)** : découvrir QGIS, manipuler et créer des données, puis réaliser une première carte.
+- **Matin (9h-12h)** : comprendre la démarche cartographique, rechercher et évaluer des données ;
+- **Après-midi (13h-16h)** : découvrir QGIS, manipuler et créer des données, puis réaliser une première carte.
 
 > **Fil conducteur de la séance : une carte ne commence pas par un logiciel. Elle commence par une question.**
 
