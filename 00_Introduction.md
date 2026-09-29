@@ -135,7 +135,7 @@ Le module représente **18 heures d'enseignement**, organisées en **3 séances 
 
 ---
 
-## 📍 Séance 1 — Découvrir les données et QGIS
+## 📍 Séance 1 - Découvrir les données et QGIS
 
 La première séance est consacrée aux bases nécessaires pour commencer un projet cartographique.
 
@@ -219,9 +219,9 @@ Au cours de la formation, nous utiliserons ou consulterons plusieurs sources ins
 
 ## 📚 Programme du site
 
-- [**Séance 1 — De la question de recherche aux données cartographiques et découverte de QGIS**](01_Seance1.html)
-- [**Séance 2 — Préparer les données et réaliser une carte thématique**](02_Seance2.html)
-- [**Séance 3 — Consolider les acquis et réaliser son projet cartographique**](03_Seance3.html)
+- [**Séance 1 - De la question de recherche aux données cartographiques et découverte de QGIS**](01_Seance1.html)
+- [**Séance 2 - Préparer les données et réaliser une carte thématique**](02_Seance2.html)
+- [**Séance 3 - Consolider les acquis et réaliser son projet cartographique**](03_Seance3.html)
 
 ---
 
