@@ -127,7 +127,7 @@ Pour commencer à construire votre projet, posez-vous progressivement les questi
 
 Le module représente **18 heures d'enseignement**, organisées en **3 séances de 6 heures**.
 
-| Séance | Matin — 9h à 12h | Après-midi — 13h à 16h |
+| Séance | Matin - 9h à 12h | Après-midi - 13h à 16h |
 | --- | --- | --- |
 | **Séance 1** | Comprendre la démarche cartographique et rechercher des données | Découvrir QGIS, créer et représenter des données |
 | **Séance 2** | Préparer et relier les données | Construire une carte thématique |
