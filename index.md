@@ -5,9 +5,9 @@ nav_order: 1
 
 # Initiation à la cartographie avec QGIS
 
-**Master 2 EEI-MCRI — Études Européennes et Internationales / Mondes Contemporains et Relations Internationales**  
+**Master 2 EEI-MCRI - Études Européennes et Internationales / Mondes Contemporains et Relations Internationales**  
 **CY Cergy Paris Université**  
-**18 heures — 3 séances de 6 heures**
+**18 heures - 3 séances de 6 heures**
 
 Bienvenue sur le site pédagogique du module **Initiation à la cartographie avec QGIS**.
 
