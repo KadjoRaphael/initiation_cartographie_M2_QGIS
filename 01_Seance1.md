@@ -787,7 +787,7 @@ Quelle transformation de la donnée permettrait de mieux comparer les départeme
 
 ---
 
-# 🌇 Après-midi (13h–16h) - Découvrir QGIS et réaliser une première carte
+# 🌇 Après-midi (13h-16h) - Découvrir QGIS et réaliser une première carte
 
 # 17. Découvrir QGIS et importer des données
 
