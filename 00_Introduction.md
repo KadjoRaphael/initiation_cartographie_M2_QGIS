@@ -203,12 +203,12 @@ Pour suivre le module, vous aurez besoin :
 
 Au cours de la formation, nous utiliserons ou consulterons plusieurs sources institutionnelles de données, notamment :
 
-- **INSEE** — données démographiques, économiques et sociales en France ;
-- **Eurostat** — données harmonisées sur les pays et régions européennes ;
-- **World Bank Open Data** — indicateurs internationaux sur l'économie, la population, le développement et l'environnement ;
-- **World Statistics Pocketbook** — statistiques internationales ;
-- **data.gouv.fr** — portail français de données publiques ouvertes ;
-- **Paris Open Data** — exemple de portail de données d'une collectivité territoriale ;
+- **INSEE** - données démographiques, économiques et sociales en France ;
+- **Eurostat** - données harmonisées sur les pays et régions européennes ;
+- **World Bank Open Data** - indicateurs internationaux sur l'économie, la population, le développement et l'environnement ;
+- **World Statistics Pocketbook** - statistiques internationales ;
+- **data.gouv.fr** - portail français de données publiques ouvertes ;
+- **Paris Open Data** - exemple de portail de données d'une collectivité territoriale ;
 - des données produites par des organismes de recherche comme **INRAE** ou le **CNRS**.
 
 > **Important : trouver un fichier ne suffit pas.**
