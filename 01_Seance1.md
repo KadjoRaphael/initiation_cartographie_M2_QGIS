@@ -23,7 +23,7 @@ Avant d'ouvrir QGIS, quatre interrogations doivent guider la démarche :
 
 ---
 
-# 🌅 Matin (9h–12h) - De la question de recherche aux données cartographiques
+# 🌅 Matin (9h-12h) - De la question de recherche aux données cartographiques
 
 ## 🎯 Objectifs de la matinée
 
@@ -725,7 +725,7 @@ Elles permettent notamment de savoir :
 
 ---
 
-# ✏️ Exercice pratique — Rechercher et évaluer une donnée
+# ✏️ Exercice pratique - Rechercher et évaluer une donnée
 
 Vous disposez d'un jeu de données de l'**INSEE datant de 2012** présentant, pour chaque département français, les effectifs de différentes catégories socioprofessionnelles.
 
@@ -787,7 +787,7 @@ Quelle transformation de la donnée permettrait de mieux comparer les départeme
 
 ---
 
-# 🌇 Après-midi (13h–16h) — Découvrir QGIS et réaliser une première carte
+# 🌇 Après-midi (13h–16h) - Découvrir QGIS et réaliser une première carte
 
 # 17. Découvrir QGIS et importer des données
 
@@ -831,7 +831,7 @@ Repérez notamment :
 
 ---
 
-## 🛠️ Manipulation 1 — Ouvrir et explorer des données
+## 🛠️ Manipulation 1 - Ouvrir et explorer des données
 
 Dans QGIS :
 
@@ -865,7 +865,7 @@ Pour pouvoir être directement localisé, il doit par exemple contenir des coord
 
 ---
 
-# 19. Le système de référence de coordonnées — SCR
+# 19. Le système de référence de coordonnées - SCR
 
 Une couche géographique possède généralement un **système de référence de coordonnées (SCR)**.
 
@@ -898,7 +898,7 @@ Pour créer une couche, il faut notamment :
 
 ---
 
-# ✏️ Exercice pratique — Créer une couche de points
+# ✏️ Exercice pratique - Créer une couche de points
 
 Créez une couche contenant **5 à 10 points**.
 
@@ -1061,7 +1061,7 @@ Il s'agit de comprendre l'enchaînement général :
 
 Le support général du module est disponible au format PDF.
 
-👉 [**Télécharger le support de cours — Initiation à la cartographie avec QGIS (PDF)**](documents/Initiation_cartographie_M2_EEIMCRI_CYCergy.pdf)
+👉 [**Télécharger le support de cours - Initiation à la cartographie avec QGIS (PDF)**](documents/Initiation_cartographie_M2_EEIMCRI_CYCergy.pdf)
 
 Le support contient la présentation du module ainsi que le contenu détaillé de la **Séance 1 — De la question de recherche aux données cartographiques**.
 
@@ -1071,21 +1071,21 @@ Le support contient la présentation du module ainsi que le contenu détaillé d
 
 Pour rechercher et vérifier vos données :
 
-👉 [**INSEE — Statistiques françaises**](https://www.insee.fr/)
+👉 [**INSEE - Statistiques françaises**](https://www.insee.fr/)
 
-👉 [**Eurostat — Statistiques européennes**](https://ec.europa.eu/eurostat/)
+👉 [**Eurostat - Statistiques européennes**](https://ec.europa.eu/eurostat/)
 
-👉 [**World Bank Open Data — Données internationales**](https://data.worldbank.org/)
+👉 [**World Bank Open Data - Données internationales**](https://data.worldbank.org/)
 
 👉 [**United Nations Statistics Division**](https://unstats.un.org/)
 
-👉 [**data.gouv.fr — Données publiques françaises**](https://www.data.gouv.fr/)
+👉 [**data.gouv.fr - Données publiques françaises**](https://www.data.gouv.fr/)
 
-👉 [**Paris Data — Données ouvertes de la Ville de Paris**](https://opendata.paris.fr/)
+👉 [**Paris Data - Données ouvertes de la Ville de Paris**](https://opendata.paris.fr/)
 
-👉 [**INRAE — Institut national de recherche pour l'agriculture, l'alimentation et l'environnement**](https://www.inrae.fr/)
+👉 [**INRAE - Institut national de recherche pour l'agriculture, l'alimentation et l'environnement**](https://www.inrae.fr/)
 
-👉 [**CNRS — Centre national de la recherche scientifique**](https://www.cnrs.fr/)
+👉 [**CNRS - Centre national de la recherche scientifique**](https://www.cnrs.fr/)
 
 ---
 
@@ -1109,7 +1109,7 @@ Les supports, ressources et informations nécessaires au module sont également 
 
 ---
 
-# ✅ À retenir — Séance 1
+# ✅ À retenir - Séance 1
 
 À la fin de cette première séance, retenez principalement que :
 
