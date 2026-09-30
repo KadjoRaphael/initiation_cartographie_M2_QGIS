@@ -737,7 +737,15 @@ Choisissez l'une des situations proposées :
 - cartographier le nombre de retraités ;
 - représenter la répartition des employés.
 
-👉 [**Télécharger l'éxercice pratique**](documents/Exercice_pratique.xlsx)
+👉 [**Télécharger l'éxercice pratique**](documents/Exercice_pratique.zip)
+
+<div style="background-color:#fdecea; border-left:4px solid #c0392b; padding:10px 15px; margin:10px 0;">
+<strong style="color:#c0392b;">⚠️ Important :</strong>
+le fichier téléchargé est au format ZIP. Il ne s'ouvrira pas directement
+dans Excel. Après le téléchargement, vous devez d'abord
+<strong>décompresser le fichier</strong> sur votre ordinateur pour accéder
+à l'énoncé et aux données.
+</div>
 
 ---
 
