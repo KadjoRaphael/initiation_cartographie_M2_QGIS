@@ -60,7 +60,7 @@ N'attendez pas la séance 3 pour chercher vos données. Commencez dès la séanc
 ## Orientations bibliographiques
 
 - Béguin M., Pumain D. (2017). *La représentation des données géographiques* (4e éd.). Armand Colin.
-- Dumolard P., Dubus N., Charleux L. (2019). *Les statistiques en géographie*. Belin.
+- Charleux L., Dubus N., Dumolard P. (2019). *Les statistiques en géographie*. Belin.
 
 ## Autres ressources
 
