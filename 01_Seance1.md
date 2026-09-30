@@ -1059,11 +1059,11 @@ Il s'agit de comprendre l'enchaînement général :
 
 # 📄 Support de cours
 
-Le support général du module est disponible au format PDF.
+Le support de cours de la séance 1 est disponible au format PDF.
 
-👉 [**Télécharger le support de cours - Initiation à la cartographie avec QGIS (PDF)**](documents/Initiation_cartographie_M2_EEIMCRI_CYCergy.pdf)
+👉 [**Télécharger le support de cours - Initiation à la cartographie avec QGIS (PDF)**](Xdocuments/Seance_1_De_la_question_de_recherche_a_la_premiere_carte_sous_QGIS.pdf)
 
-Le support contient la présentation du module ainsi que le contenu détaillé de la **Séance 1 — De la question de recherche aux données cartographiques**.
+Le support contient la présentation du module ainsi que le contenu détaillé de la **Séance 1 - De la question de recherche aux données cartographiques**.
 
 ---
 
