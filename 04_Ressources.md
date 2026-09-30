@@ -75,4 +75,4 @@ Commencez dès la séance 1 et profitez de la séance 2 pour tester leur compati
 
 ### Support de cours
 
-- [Support de cours complet (PDF)](documents/Initiation_cartographie_M2_EEIMCRI_CYCergy.pdf) — disponible à la fin de l'ensemble des séances.
+- [Support de cours complet (PDF)](documents/Initiation_cartographie_M2_EEIMCRI_CYCergy.pdf) - disponible à la fin de l'ensemble des séances.
