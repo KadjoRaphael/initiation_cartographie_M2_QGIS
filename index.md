@@ -110,7 +110,8 @@ Le projet sera ensuite construit progressivement pendant les trois séances.
 👉 [**Séance 1 - De la question de recherche aux données cartographiques et découverte de QGIS**](01_Seance1.html)  
 👉 [**Séance 2 - Préparer les données et réaliser une carte thématique**](02_Seance2.html)  
 👉 [**Séance 3 - Consolider les acquis et réaliser son projet cartographique**](03_Seance3.html)  
-👉 [**Ressources - Données, QGIS et fonds cartographiques**](04_Ressources.html)
+👉 [**Ressources - Données, QGIS et fonds cartographiques**](04_Ressources.html)  
+👉 [**Bibliographie et liens utiles**](04_Ressources.html#ressources-et-bibliographie)
 
 ---
 
