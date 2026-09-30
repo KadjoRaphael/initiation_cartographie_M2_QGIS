@@ -23,7 +23,6 @@ Sources à explorer selon le sujet :
 - data.gouv.fr ;
 - Banque mondiale ;
 - Nations unies et agences spécialisées ;
-- OCDE ;
 - portails open data nationaux ou locaux ;
 - organismes de recherche et institutions publiques.
 
