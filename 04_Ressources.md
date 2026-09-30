@@ -54,3 +54,20 @@ Avant de l'utiliser, vérifiez :
 ## 🎓 Projet final
 
 N'attendez pas la séance 3 pour chercher vos données. Commencez dès la séance 1 et profitez de la séance 2 pour tester la compatibilité avec QGIS et les jointures.
+
+# Ressources et bibliographie
+
+## Orientations bibliographiques
+
+- Béguin M., Pumain D. (2017). *La représentation des données géographiques* (4e éd.). Armand Colin.
+- Dumolard P., Dubus N., Charleux L. (2019). *Les statistiques en géographie*. Belin.
+
+## Autres ressources
+
+- Bertin J. (1999). *Sémiologie graphique : Les diagrammes, les réseaux, les cartes* (3e éd.). EHESS. (Ouvrage original publié en 1967.)
+- Brunet R. (1987). *La carte, mode d'emploi*. Fayard/Reclus.
+- Lambert N., Zanin C. (2016). *Manuel de cartographie : Principes, méthodes, applications*. Armand Colin.
+
+## Support de cours
+
+- [Support de cours complet (PDF)](documents/Initiation_cartographie_M2_EEIMCRI_CYCergy.pdf) - disponible à la fin de l'ensemble des séances.
