@@ -1111,14 +1111,6 @@ Le logiciel utilisé pendant le module est **QGIS**, un système d'information g
 
 ---
 
-# 🌐 Site du cours
-
-Les supports, ressources et informations nécessaires au module sont également accessibles sur le site pédagogique :
-
-👉 [**Accéder au site du cours**](https://kadjoraphael.github.io/initiation_cartographie_M2_QGIS/)
-
----
-
 # ✅ À retenir - Séance 1
 
 À la fin de cette première séance, retenez principalement que :
