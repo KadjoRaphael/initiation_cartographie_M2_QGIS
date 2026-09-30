@@ -737,6 +737,8 @@ Choisissez l'une des situations proposées :
 - cartographier le nombre de retraités ;
 - représenter la répartition des employés.
 
+👉 [**Télécharger l'éxercice pratique**](documents/Exercice_pratique.xlsx)
+
 ---
 
 ## Travail demandé
