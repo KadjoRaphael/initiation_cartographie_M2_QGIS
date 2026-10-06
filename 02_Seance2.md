@@ -783,16 +783,6 @@ Le support de cours de la séance 2 est disponible au format PDF.
 
 ---
 
-# 💻 Logiciel
-
-Le logiciel utilisé pendant la séance est **QGIS**.
-
-👉 [**Accéder au site officiel de QGIS**](https://qgis.org/)
-
-👉 [**Télécharger QGIS**](https://qgis.org/download/)
-
----
-
 # ✅ À retenir - Séance 2
 
 À la fin de cette deuxième séance, retenez principalement que :
