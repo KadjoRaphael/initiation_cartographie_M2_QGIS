@@ -779,7 +779,7 @@ Votre projet cartographique doit maintenant devenir plus concret.
 
 Le support de cours de la séance 2 est disponible au format PDF.
 
-👉 [**Télécharger le support de cours - Séance 2 : Préparer, joindre et représenter des données dans QGIS (PDF)**](documents/Seance_2_Preparer_joindre_et_representer_des_donnees_dans_QGIS.pdf)
+👉 [**Télécharger le support de cours - Séance 2 : Préparer, joindre et représenter des données dans QGIS (PDF)**](documents/XSeance_2_Preparer_joindre_et_representer_des_donnees_dans_QGIS.pdf)
 
 ---
 
