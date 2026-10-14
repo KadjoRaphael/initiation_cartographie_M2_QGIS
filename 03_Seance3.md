@@ -35,7 +35,7 @@ Les étudiants peuvent également poser des questions directement liées à leur
 
 ---
 
-# Après-midi (13h–16h) - Atelier final : réaliser sa propre carte dans QGIS
+# Après-midi (13h-16h) - Atelier final : réaliser sa propre carte dans QGIS
 
 ## 🎯 Objectif
 
