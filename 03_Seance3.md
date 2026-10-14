@@ -3,9 +3,9 @@ title: Séance 3 - DST, approfondissement et projet final
 nav_order: 5
 ---
 
-# Séance 3 — Évaluation, approfondissement et projet cartographique final
+# Séance 3 - Évaluation, approfondissement et projet cartographique final
 
-# Matin (9h–12h) — DST méthodologique et approfondissement
+# Matin (9h-12h) - DST méthodologique et approfondissement
 
 ## 🎯 Objectifs
 
@@ -35,7 +35,7 @@ Les étudiants peuvent également poser des questions directement liées à leur
 
 ---
 
-# Après-midi (13h–16h) — Atelier final : réaliser sa propre carte dans QGIS
+# Après-midi (13h–16h) - Atelier final : réaliser sa propre carte dans QGIS
 
 ## 🎯 Objectif
 
