@@ -27,7 +27,7 @@ Le DST porte sur le **raisonnement cartographique** :
 
 > **Le DST constitue la première note finale du module.**
 
-## 10h30–12h — Correction et approfondissement
+## 10h30-12h - Correction et approfondissement
 
 La correction sert à repérer ce qui reste mal compris. Selon les difficultés observées, l'enseignant reprend les notions ou manipulations nécessaires : import CSV, jointures, identifiants, stock/taux, symbologie, discrétisation, SCR, table attributaire ou mise en page.
 
