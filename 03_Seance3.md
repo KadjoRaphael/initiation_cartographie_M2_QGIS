@@ -11,7 +11,7 @@ nav_order: 5
 
 Vérifier les acquis, identifier les incompréhensions et consolider les méthodes avant le travail individuel final.
 
-## 9h–10h30 — DST méthodologique individuel
+## 9h-10h30 - DST méthodologique individuel
 
 Le DST porte sur le **raisonnement cartographique** :
 
