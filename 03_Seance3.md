@@ -79,3 +79,13 @@ La carte produite constitue la deuxième note finale. L'évaluation porte notamm
 ## ✅ Bilan du module
 
 **Chercher → comprendre → créer → joindre → représenter → vérifier → corriger → produire.**
+
+---
+
+# 📄 Support de cours
+
+Le support de cours de la séance 3 est disponible au format PDF.
+
+👉 [**Télécharger le support de cours - Séance 3 : DST méthodologique, correction et approfondissement (PDF)**](documents/Seance_3_DST_méthodologique_approfondissement_et_conclusion.pdf)
+
+---
