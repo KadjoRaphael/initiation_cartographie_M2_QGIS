@@ -216,9 +216,8 @@ Au cours de la formation, nous utiliserons ou consulterons plusieurs sources ins
 > Avant d'utiliser une donnée, il faudra toujours vérifier son **producteur, sa source, sa date, son unité, sa définition, son échelle géographique et sa documentation**.
 
 - [Présentation générale du cours (PDF)](documents/Presentation_generale_du_cours.pdf)
-- **Support de cours complet (PDF)** - disponible à la fin de l'ensemble des séances.
+- [**Support de cours complet : Initiation à la cartographie (PDF)**](documents/Initiation_cartographie_M2_EEIMCRI_CYCergy.pdf)
 - [Bibliographie et liens utiles](05_Ressources.html)
-
 
 ---
 
