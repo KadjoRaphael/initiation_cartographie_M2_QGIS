@@ -73,6 +73,11 @@ Commencez dès la séance 1 et profitez de la séance 2 pour tester leur compati
 - Brunet R. (1987). *La carte, mode d'emploi*. Fayard/Reclus.
 - Lambert N., Zanin C. (2016). *Manuel de cartographie : Principes, méthodes, applications*. Armand Colin.
 
+
 ### Support de cours
 
-- [Support de cours complet (PDF)](documents/Initiation_cartographie_M2_EEIMCRI_CYCergy.pdf).
+Le support complet du cours **« Initiation à la cartographie »** est disponible en téléchargement au format PDF.
+
+👉 [**Télécharger le support de cours (PDF)**](documents/Initiation_cartographie_M2_EEIMCRI_CYCergy.pdf)
+
+
