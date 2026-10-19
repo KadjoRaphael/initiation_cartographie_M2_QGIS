@@ -217,7 +217,7 @@ Au cours de la formation, nous utiliserons ou consulterons plusieurs sources ins
 
 - [Présentation générale du cours (PDF)](documents/Presentation_generale_du_cours.pdf)
 - [**Support de cours complet : Initiation à la cartographie (PDF)**](documents/Initiation_cartographie_M2_EEIMCRI_CYCergy.pdf)
-- [Bibliographie et liens utiles](05_Ressources.html)
+- [Bibliographie et liens utiles](04_Ressources.html)
 
 ---
 
